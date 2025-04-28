@@ -1,9 +1,9 @@
 class Vomit < Formula
   desc "Recursive file content dumper"
   homepage "https://github.com/evapilotno17/vomit"
-  url "https://github.com/evapilotno17/vomit/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "70444d9d523d9e8a1fa2dec676510b6f2123855ff1d46d7c2f4acf2ec1a1b109"
-  version "0.1.1"
+  url "https://github.com/evapilotno17/vomit/archive/refs/tags/v2.tar.gz"
+  sha256 "f9ea21c554a38aa72bf33816beb2b0864ed90632c3d8841e10dbbfea18d201dc"
+  version "2"
 
   depends_on "python@3.12"
 
